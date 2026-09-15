@@ -134,7 +134,7 @@ section h2,
 
 .profile-image-container {
   width: 125px;
-  height: 160px;
+  height: 150px;
   margin: 0 auto;
   overflow: hidden;
   display: block;
@@ -183,7 +183,7 @@ section h2,
     overflow-y: auto;
     width: 380px;
     position: sticky;
-    top: -17rem;
+    top: -19rem;
   }
 
   /*sticky nav*/
