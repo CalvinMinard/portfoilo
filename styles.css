@@ -50,6 +50,12 @@ footer {
   z-index: 10;
 }
 
+footer {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 2rem;
+}
+
 header {
   display: flex;
   flex-direction: column;
