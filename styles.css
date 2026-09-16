@@ -219,6 +219,15 @@ section h2,
     scroll-margin-top: 5rem;
   }
 
+  .happenings ul {
+    padding-left: 1.25rem; /* indent */
+    list-style-type: disc; /* bullet style */
+  }
+
+  .happenings li {
+    margin-bottom: 0.5rem; /* spacing */
+  }
+
   #work-experience {
     scroll-margin-top: 5rem;
   }
